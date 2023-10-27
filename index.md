@@ -1,1 +1,1 @@
-Hello
+Hi! I am a **computer scientist and paleobiologist** researching machine learning applications to geological and biological questions in deep time. Currently, I am a student at Stanford University completing a bachelor's and master's degree in Computer Science.
