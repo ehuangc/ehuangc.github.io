@@ -1,1 +1,1 @@
-Hi! I am a **computer scientist and paleobiologist** researching the applications of modern machine learning to questions about the history of life. Currently, I am a student at Stanford University completing a B.S. and M.S. in Computer Science with a concentration in AI.
+Hi! I am a **computer scientist and paleobiologist** researching the applications of modern computational techniques to questions about the history of life. Currently, I am a student at Stanford University completing a B.S. and M.S. in Computer Science with a concentration in AI.
